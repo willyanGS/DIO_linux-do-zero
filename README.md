@@ -1,2 +1,5 @@
-# DIO_linux-do-zero
-Desafios de projeto do curso Linux do Zero (DIO)
+# Material do curso Linux do Zero da DIO
+Repositório criado para os Desafios de Projeto
+
+## Primeiro desafio
+Git/Github
