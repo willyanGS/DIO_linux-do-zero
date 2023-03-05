@@ -2,4 +2,7 @@
 Repositório criado para os Desafios de Projeto
 
 ## Primeiro desafio
-Git/Github
+Utilizar Git e criar repositório no Github
+
+## Segundo desafio
+Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
