@@ -9,4 +9,7 @@ Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Dire
 
 
 ## Terceiro desafio
-Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)
+Infraestrutura como Código: Script de Provisionamento de um Servidor Web (Apache)
+
+## Quarto desafio
+Docker: Utilização Prática no Cenário de Microsserviços
